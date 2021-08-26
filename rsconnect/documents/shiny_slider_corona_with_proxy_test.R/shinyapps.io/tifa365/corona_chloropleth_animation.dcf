@@ -1,0 +1,13 @@
+name: corona_chloropleth_animation
+title: corona_chloropleth_animation
+username:
+account: tifa365
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4534361
+bundleId: 4962298
+url: https://tifa365.shinyapps.io/corona_chloropleth_animation/
+when: 1629892734.77096
+lastSyncTime: 1629892734.77099
+asMultiple: FALSE
+asStatic: FALSE

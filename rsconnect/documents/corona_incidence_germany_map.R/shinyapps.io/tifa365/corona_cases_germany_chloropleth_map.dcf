@@ -1,0 +1,13 @@
+name: corona_cases_germany_chloropleth_map
+title: corona_cases_germany_chloropleth_map
+username:
+account: tifa365
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4540235
+bundleId: 4966664
+url: https://tifa365.shinyapps.io/corona_cases_germany_chloropleth_map/
+when: 1629967669.20634
+lastSyncTime: 1629967669.20637
+asMultiple: FALSE
+asStatic: FALSE
